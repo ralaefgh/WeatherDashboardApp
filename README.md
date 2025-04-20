@@ -76,3 +76,9 @@ If you wish to swap in another API or add keys, modify the `fetchWeatherForCity`
 - **Vanilla JavaScript** (ES6+, Fetch API, DOM manipulation)  
 - **Open‑Meteo APIs** for geocoding & forecasting  
 - **No build tools**—zero dependencies, lightning‑fast startup  
+
+---
+
+## License
+
+- **CC BY-NC-SA 4.0**
