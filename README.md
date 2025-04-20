@@ -13,7 +13,9 @@ A sleek, responsive web application that provides real‑time weather informatio
   - [Running Locally](#running-locally)  
 - [Usage](#usage)  
 - [Configuration](#configuration)   
-- [Technologies Used](#technologies-used)  
+- [Technologies Used](#technologies-used)
+- [Demo] (#demo)
+- [License] (#license)  
 
 ---
 
@@ -76,6 +78,12 @@ If you wish to swap in another API or add keys, modify the `fetchWeatherForCity`
 - **Vanilla JavaScript** (ES6+, Fetch API, DOM manipulation)  
 - **Open‑Meteo APIs** for geocoding & forecasting  
 - **No build tools**—zero dependencies, lightning‑fast startup  
+
+---
+
+## Demo
+
+- https://ralaefgh.github.io/WeatherDashboardApp/
 
 ---
 
