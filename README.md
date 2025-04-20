@@ -14,8 +14,8 @@ A sleek, responsive web application that provides real‑time weather informatio
 - [Usage](#usage)  
 - [Configuration](#configuration)   
 - [Technologies Used](#technologies-used)
-- [Demo] (#demo)
-- [License] (#license)  
+- [Demo](dem#o)
+- [License](#license)  
 
 ---
 
